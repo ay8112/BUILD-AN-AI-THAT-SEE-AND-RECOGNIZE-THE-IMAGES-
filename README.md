@@ -20,8 +20,7 @@ Open In Colab
 
 Clone and run locally:
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/ay8112/BUILD-AN-AI-THAT-SEE-AND-RECOGNIZE-THE-IMAGES-.git
 # Open the notebook in Jupyter or Colab
 Key Features
 Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
